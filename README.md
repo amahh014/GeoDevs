@@ -1,6 +1,6 @@
 # GeoDevs 1.0
 
-> Social network for developers
+> Social network for Georgian developers
 
 This is a MERN stack application.
 
@@ -28,10 +28,6 @@ npm install
 # Run both Express & React from root
 npm run dev
 
-# Build for production
-cd client
-npm run build
-```
 
 ### Version
 
